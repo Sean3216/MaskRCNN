@@ -1,0 +1,12 @@
+# base path
+path: H:/sean-dev/explore-study/AUG+YOLO/data/
+
+# train/val/test path
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+# classes without OK 
+names:
+    0: outer
+    1: inner
