@@ -12,7 +12,7 @@ MaskRCNN/
 │   │   │   │   └── <image files>
 │   │   │   ├── labels/
 │   │   │   │   └── <label files> --> Labels should be a text file that follows the expected format -> <class> <x y x y x y x y ... x y>
-│   └── data.yaml --> Should follow Ultralytics formating. Refer to 
+│   └── data.yaml --> Should follow Ultralytics formating. Refer to the current data.yaml provided
 ├── eval/
 │   └── utils.py
 ├── data.py
